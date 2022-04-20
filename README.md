@@ -1,9 +1,25 @@
 # E-commerce de Pizzaria
-Ecommerce completo com todos os componentes necessários, tais como carrinho de compras, aumentar quantidade de item específico, descontos, valor total, imagens dos produtos etc.
+E-commerce completo com todos os componentes necessários, tais como carrinho de compras, aumentar quantidade de item específico, descontos, valor total, imagens dos produtos etc.
 
-## Acesse o link e teste o projeto
+## Acesse o link e teste o projeto:
 
 Veja o projeto pronto: https://barretogustavo.github.io/Ecommerce-Pizza/
+
+## Para desenvolver esse projeto, eu utilizei:
+
+HTML, CSS, Javascript e Photoshop
+
+## Conhecimento adquirido:
+
+Durante o desenvolvimento deste projeto, eu aprendi muito sobre o método .map do Javascript. Utilizei este método para percorrer o objeto de pizzas para mostrá-las na tela. Também pude aprender mais sobre Responsividade e Clean Code.
+
+## Desafios que tive:
+
+Durante o desenvolvimento desse e-commerce, meu maior desafio foi manter o código limpo. Entretanto, me aprofundei nos estudos de boas-práticas e consegui fazer um código fácil de entender caso seja necessário um refactor.
+
+
+
+### Confira abaixo imagens das versões para desktop e mobile, respectivamente:
 
 ## Tela principal
 
